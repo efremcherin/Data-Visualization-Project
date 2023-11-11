@@ -4,3 +4,5 @@ using Excel
 
 • Used Tableau to represent the differences between different states in the production of electricity by different sources,
 as indicated in the objectives.
+
+The project is in italian language.
